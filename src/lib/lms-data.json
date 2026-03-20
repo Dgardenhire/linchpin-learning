@@ -1,0 +1,2290 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "CrisisReady 360",
+      "slug": "crisisready-360",
+      "subtitle": "Complete Crisis Communications Mastery",
+      "category": "Crisis Communications",
+      "description": "Master the art and science of crisis communications. From the S.P.E.E.D. Framework to social media firestorms, learn how to protect reputations when it matters most.",
+      "long_description": "When crisis hits, you have minutes \u2014 not hours \u2014 to respond. CrisisReady 360 gives you the complete toolkit: a battle-tested framework for rapid response, messaging strategies that hold under pressure, media handling techniques from a veteran spokesman, and social media crisis management that actually works.\n\nBuilt by Damon Gardenhire, who spent 12 years at the Walton Family Foundation and served as spokesman for INTEGRIS Health, this course distills decades of real-world crisis experience into actionable modules you can deploy immediately.\n\nWhether you're a school superintendent, DA, nonprofit leader, or communications professional \u2014 this is the course that makes you the calmest person in the room when everything goes sideways.",
+      "price_cents": 49700,
+      "thumbnail_url": null,
+      "instructor_name": "Damon Gardenhire",
+      "instructor_bio": "Former spokesman for INTEGRIS Health and 12-year veteran of the Walton Family Foundation. Damon has managed communications through executive crises, public safety incidents, and social media firestorms for organizations across the country.",
+      "instructor_headshot_url": "/assets/headshots/damon-gardenhire.jpg",
+      "instructor_slug": "damon-gardenhire",
+      "instructor_title": "Founder, LINCHPIN",
+      "is_signature": 1,
+      "estimated_hours": 8.0,
+      "sort_order": 1,
+      "status": "published",
+      "learning_outcomes": "Deploy the S.P.E.E.D. Framework in the first 60 minutes of any crisis|Craft holding statements that protect reputation under pressure|Handle hostile media interviews with confidence and control|Build a Social Threat Index to triage online firestorms|Create pre-built crisis response kits and templates|Lead crisis simulations to pressure-test your team",
+      "target_audience": "",
+      "transformation_statement": "",
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": 18300,
+      "installment_count": 3
+    },
+    {
+      "id": 2,
+      "title": "GrantPath",
+      "slug": "grantpath",
+      "subtitle": "Strategic Grant Writing & Funding Acquisition",
+      "category": "Grant Writing",
+      "description": "Transform your approach to grants. Learn to identify opportunities, craft winning proposals, and build funder relationships that sustain your mission for years.",
+      "long_description": "Most organizations leave millions on the table every year \u2014 not because they lack a worthy cause, but because they lack a system. GrantPath gives you the system.\n\nBuilt from years of helping nonprofits, school districts, and municipalities secure transformative funding, this course takes you from opportunity identification through award management. You'll learn how to read an RFP like a funder reads applications, build narratives that make reviewers say yes, and develop the organizational capacity to sustain a healthy grant portfolio.\n\nWhether you're a development director, executive director, grant writer, or board member who wants to understand the funding landscape \u2014 this is your roadmap to sustainable revenue.",
+      "price_cents": 39700,
+      "thumbnail_url": null,
+      "instructor_name": "Damon Gardenhire",
+      "instructor_bio": "Former spokesman for INTEGRIS Health and 12-year veteran of the Walton Family Foundation. Damon has managed communications through executive crises, public safety incidents, and social media firestorms for organizations across the country.",
+      "instructor_headshot_url": "/assets/headshots/damon-gardenhire.jpg",
+      "instructor_slug": "damon-gardenhire",
+      "instructor_title": "Founder, LINCHPIN",
+      "is_signature": 1,
+      "estimated_hours": 6.0,
+      "sort_order": 2,
+      "status": "published",
+      "learning_outcomes": "Build a systematic funder pipeline that surfaces the right opportunities|Read RFPs like a funder reads applications|Craft needs statements backed by data-driven storytelling|Design logic models that connect inputs to measurable outcomes|Build budgets that tell a compelling narrative|Develop stewardship practices that turn grants into long-term partnerships",
+      "target_audience": null,
+      "transformation_statement": null,
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": 13900,
+      "installment_count": 3
+    },
+    {
+      "id": 3,
+      "title": "Authority Architect",
+      "slug": "authority-architect",
+      "subtitle": "Build a Reputation That Opens Doors",
+      "category": "Authority Building",
+      "description": "Position yourself as the go-to expert in your field. Master thought leadership, media presence, and strategic visibility that drives real business results.",
+      "long_description": "Expertise is not enough. The world is full of brilliant people nobody has heard of. Authority Architect teaches you to build the kind of reputation that makes opportunities come to you \u2014 speaking invitations, media requests, partnership offers, and client inquiries that arrive without cold outreach.\n\nThis course draws from Damon Gardenhire's experience building visibility for executives, elected officials, and nonprofit leaders. You'll learn to identify your unique authority position, create content that compounds, master media appearances, and build a personal brand infrastructure that works while you sleep.\n\nWhether you're a consultant, executive, founder, or professional who knows you should be more visible \u2014 this is the system that makes thought leadership feel natural, not performative.",
+      "price_cents": 59700,
+      "thumbnail_url": null,
+      "instructor_name": "Damon Gardenhire",
+      "instructor_bio": "Former spokesman for INTEGRIS Health and 12-year veteran of the Walton Family Foundation. Damon has managed communications through executive crises, public safety incidents, and social media firestorms for organizations across the country.",
+      "instructor_headshot_url": "/assets/headshots/damon-gardenhire.jpg",
+      "instructor_slug": "damon-gardenhire",
+      "instructor_title": "Founder, LINCHPIN",
+      "is_signature": 1,
+      "estimated_hours": 7.0,
+      "sort_order": 3,
+      "status": "published",
+      "learning_outcomes": "Identify your unique authority position and highest-leverage niche|Build a content engine that compounds visibility over time|Master media appearances and executive presence|Craft an authority statement that positions you as the go-to expert|Develop personal brand infrastructure that works while you sleep|Turn thought leadership into tangible business opportunities",
+      "target_audience": null,
+      "transformation_statement": null,
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": 20900,
+      "installment_count": 3
+    },
+    {
+      "id": 4,
+      "title": "AI for the Real World",
+      "slug": "ai-for-the-real-world",
+      "subtitle": "A Leadership Guide to Artificial Intelligence That Actually Works",
+      "category": "AI & Innovation",
+      "description": "Cut through the AI hype. Learn what actually works, what does not, and how to lead your organization through the AI revolution with confidence and clarity.",
+      "long_description": "Every leader is being told they need an AI strategy. Few know where to start. This course strips away the jargon and gives you a practical, real-world framework for understanding and deploying AI in your organization.\n\nBuilt by Damon Gardenhire \u2014 who has spent the last two years building AI-powered tools, advising organizations on AI adoption, and separating signal from noise in the fastest-moving technology landscape in history \u2014 this course gives you the vocabulary, the frameworks, and the confidence to lead.\n\nFrom understanding what large language models actually do, to evaluating vendors, to building your first AI workflow, this is the course every leader wishes they had six months ago.",
+      "price_cents": 29700,
+      "thumbnail_url": null,
+      "instructor_name": "Damon Gardenhire",
+      "instructor_bio": "Former spokesman for INTEGRIS Health and 12-year veteran of the Walton Family Foundation. Damon has spent the last two years building AI-powered tools and advising organizations on AI adoption, separating signal from noise in the fastest-moving technology landscape in history.",
+      "instructor_headshot_url": "/assets/headshots/damon-gardenhire.jpg",
+      "instructor_slug": "damon-gardenhire",
+      "instructor_title": "Founder, LINCHPIN",
+      "is_signature": 0,
+      "estimated_hours": 6.0,
+      "sort_order": 4,
+      "status": "published",
+      "learning_outcomes": null,
+      "target_audience": null,
+      "transformation_statement": null,
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": 10900,
+      "installment_count": 3
+    },
+    {
+      "id": 11,
+      "title": "On Camera",
+      "slug": "on-camera",
+      "subtitle": null,
+      "category": "Strategic Communications",
+      "description": "Most people freeze, ramble, or perform when a camera turns on. This course fixes that. Built from hundreds of real media prep sessions, On Camera teaches you to be clear, composed, and compelling whether you are doing a 30-second Instagram reel, a Zoom keynote, a local news hit, or a boardroom presentation on screen. No theory. No fluff. Just the mechanics of how to show up on camera like you belong there.",
+      "long_description": null,
+      "price_cents": 19700,
+      "thumbnail_url": null,
+      "instructor_name": "Damon Gardenhire",
+      "instructor_bio": "Damon Gardenhire is the founder of LINCHPIN, a strategic communications firm that has guided executives, elected officials, and organizations through high-stakes moments for over a decade. A former broadcast journalist and spokesman for Oklahoma's largest health system, he builds the messaging architecture that turns uncertainty into advantage.",
+      "instructor_headshot_url": "/assets/headshots/damon-gardenhire.jpg",
+      "instructor_slug": "damon-gardenhire",
+      "instructor_title": "Founder, LINCHPIN",
+      "is_signature": 0,
+      "estimated_hours": null,
+      "sort_order": 5,
+      "status": "published",
+      "learning_outcomes": null,
+      "target_audience": null,
+      "transformation_statement": null,
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": null,
+      "installment_count": 3
+    },
+    {
+      "id": 5,
+      "title": "The Connective Leader",
+      "slug": "the-connective-leader",
+      "subtitle": "How Faith Leaders Become the Infrastructure of Community Change",
+      "category": "Community Leadership",
+      "description": "Pastor Phillip Abode has spent decades as more than a spiritual leader \u2014 he has been the connective tissue between institutions, families, and movements in Oklahoma City. This course reveals the behind-the-scenes mechanics of how faith leaders build trust across every sector, mobilize communities without formal authority, and become the person everyone calls when the real work needs to get done. This is not a theology course. This is a masterclass in relational infrastructure \u2014 the invisible architecture that holds communities together.",
+      "long_description": null,
+      "price_cents": 29700,
+      "thumbnail_url": null,
+      "instructor_name": "Pastor Phillip Abode",
+      "instructor_bio": "Pastor Phillip Abode has spent decades as the connective tissue between institutions, families, and movements in Oklahoma City. He is the person who gets the call before the press conference, before the vote, before the crisis goes public \u2014 building trust across every sector through presence, consistency, and follow-through.",
+      "instructor_headshot_url": "/assets/headshots/phillip-abode.jpg",
+      "instructor_slug": "phillip-abode",
+      "instructor_title": "Senior Pastor & Community Strategist",
+      "is_signature": 0,
+      "estimated_hours": null,
+      "sort_order": 10,
+      "status": "published",
+      "learning_outcomes": null,
+      "target_audience": null,
+      "transformation_statement": null,
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": 10900,
+      "installment_count": 3
+    },
+    {
+      "id": 6,
+      "title": "The Mayor's Playbook",
+      "slug": "the-mayors-playbook",
+      "subtitle": "How Strategic Narrative and Bold Initiatives Transform a City",
+      "category": "Civic Leadership",
+      "description": "Mick Cornett served four terms as Mayor of Oklahoma City during its most dramatic transformation \u2014 from a city people drove through to one they moved to. This course is not a memoir. It is an operator's manual for how a mayor actually builds coalitions, passes billion-dollar ballot initiatives, reshapes a city's national narrative, and makes decisions when every option has political consequences. From the MAPS initiatives to putting the city on a diet, Cornett reveals the strategy, timing, and relationships behind the moves that changed Oklahoma City.",
+      "long_description": null,
+      "price_cents": 39700,
+      "thumbnail_url": null,
+      "instructor_name": "Mick Cornett",
+      "instructor_bio": "Mick Cornett served four terms as Mayor of Oklahoma City during its most dramatic transformation \u2014 from a city people drove through to one they moved to. He championed the MAPS initiatives, put the city on a national diet, and built the coalitions behind billions of dollars in civic investment.",
+      "instructor_headshot_url": "/assets/headshots/mick-cornett.jpg",
+      "instructor_slug": "mick-cornett",
+      "instructor_title": "Former Mayor of Oklahoma City",
+      "is_signature": 0,
+      "estimated_hours": null,
+      "sort_order": 10,
+      "status": "published",
+      "learning_outcomes": null,
+      "target_audience": null,
+      "transformation_statement": null,
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": 14500,
+      "installment_count": 3
+    },
+    {
+      "id": 7,
+      "title": "Building Schools That Work",
+      "slug": "building-schools-that-work",
+      "subtitle": "The Coalition Strategy Behind High-Performing Public Schools",
+      "category": "Coalition Building",
+      "description": "Brent Bushey, CEO of FUEL OKC, has spent years at the intersection of business, community, and education \u2014 working to ensure that public schools do not just survive but thrive. This course is not about pedagogy. It is about the mechanics of building the coalition of parents, business leaders, educators, and policymakers that a school needs to succeed. Bushey teaches the strategies behind school advocacy, community investment in education, and how business leaders can be genuine partners \u2014 not just check writers \u2014 in the fight for quality schools.",
+      "long_description": null,
+      "price_cents": 0,
+      "thumbnail_url": null,
+      "instructor_name": "Brent Bushey",
+      "instructor_bio": "Brent Bushey is CEO of FUEL OKC and has spent years at the intersection of business, community, and education in Oklahoma. He builds the coalitions of parents, business leaders, educators, and policymakers that high-performing public schools need to thrive.",
+      "instructor_headshot_url": "/assets/headshots/brent-bushey.jpg",
+      "instructor_slug": "brent-bushey",
+      "instructor_title": "CEO of FUEL OKC & Coalition Builder",
+      "is_signature": 0,
+      "estimated_hours": null,
+      "sort_order": 10,
+      "status": "published",
+      "learning_outcomes": null,
+      "target_audience": null,
+      "transformation_statement": null,
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": null,
+      "installment_count": 3
+    },
+    {
+      "id": 8,
+      "title": "Visionary Ground Game",
+      "slug": "visionary-ground-game",
+      "subtitle": "How to Build Institutions That Transform Communities from the Inside Out",
+      "category": "Community Development",
+      "description": "Chris Brewster founded Santa Fe South Charter Schools \u2014 one of the most successful charter networks in Oklahoma \u2014 and then turned a dead mall into a community renewal engine with the Crossroads Renewal Project. This course is about the architecture of transformation: how to see what a broken place could become, build the institution that makes it real, and sustain it when everyone says it cannot be done. Brewster teaches the ground-level strategy behind building schools, businesses, and services that work alongside one another for a flourishing community \u2014 in neighborhoods that most people have written off.",
+      "long_description": null,
+      "price_cents": 34700,
+      "thumbnail_url": null,
+      "instructor_name": "Chris Brewster",
+      "instructor_bio": "Chris Brewster founded Santa Fe South Charter Schools \u2014 one of the most successful charter networks in Oklahoma \u2014 and then turned a dead mall into a community renewal engine with the Crossroads Renewal Project. He builds institutions in neighborhoods most people have written off.",
+      "instructor_headshot_url": "/assets/headshots/chris-brewster.png",
+      "instructor_slug": "chris-brewster",
+      "instructor_title": "Founder, Santa Fe South Schools & Crossroads",
+      "is_signature": 0,
+      "estimated_hours": null,
+      "sort_order": 10,
+      "status": "published",
+      "learning_outcomes": null,
+      "target_audience": null,
+      "transformation_statement": null,
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": 12500,
+      "installment_count": 3
+    },
+    {
+      "id": 9,
+      "title": "AI for the Rest of Us",
+      "slug": "ai-for-the-rest-of-us",
+      "subtitle": "How Educators, Libraries, and Community Institutions Can Lead the AI Revolution",
+      "category": "AI & Innovation",
+      "description": "Michael Hanegan is not a Silicon Valley futurist. He is an Oklahoma educator and researcher who has spent years studying how AI will reshape learning, work, and community institutions from the ground up. As founder of Intersections and co-author of Generative AI and Libraries (published by the American Library Association), Hanegan brings a rare perspective: what happens when the most powerful technology in a generation meets the institutions that serve everyone \u2014 not just the tech elite. This course is for educators, librarians, community leaders, and anyone who believes that AI should serve Main Street, not just Sand Hill Road.",
+      "long_description": null,
+      "price_cents": 24700,
+      "thumbnail_url": null,
+      "instructor_name": "Michael Hanegan",
+      "instructor_bio": "Michael Hanegan is an Oklahoma educator, researcher, and founder of Intersections. Co-author of Generative AI and Libraries (American Library Association), he brings a rare ground-level perspective on how AI will reshape learning, work, and community institutions for everyone \u2014 not just the tech elite.",
+      "instructor_headshot_url": "/assets/headshots/michael-hanegan.png",
+      "instructor_slug": "michael-hanegan",
+      "instructor_title": "AI Researcher & Educator",
+      "is_signature": 0,
+      "estimated_hours": null,
+      "sort_order": 10,
+      "status": "published",
+      "learning_outcomes": null,
+      "target_audience": null,
+      "transformation_statement": null,
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": 9000,
+      "installment_count": 3
+    },
+    {
+      "id": 10,
+      "title": "The Fundraiser's Edge",
+      "slug": "the-fundraisers-edge",
+      "subtitle": "How Political Fundraising, Advocacy Campaigns, and Coalition Finance Actually Work",
+      "category": "Political Strategy",
+      "description": "Karma Robinson has raised millions of dollars across political campaigns, policy initiatives, and advocacy organizations in Oklahoma over two decades. She knows where the money comes from, why it moves, and how to build the financial infrastructure that wins campaigns and passes policy. This course pulls back the curtain on the mechanics of political fundraising and advocacy finance \u2014 the strategies, relationships, and operational discipline that separate campaigns that win from campaigns that go broke. Whether you are running a ballot initiative, building an advocacy organization, or managing a political campaign, Robinson teaches the financial ground game that makes it all possible.",
+      "long_description": null,
+      "price_cents": 34700,
+      "thumbnail_url": null,
+      "instructor_name": "Karma Robinson",
+      "instructor_bio": "Karma Robinson has raised millions of dollars across political campaigns, policy initiatives, and advocacy organizations in Oklahoma over two decades. She knows where the money comes from, why it moves, and how to build the financial infrastructure that wins campaigns and passes policy.",
+      "instructor_headshot_url": "/assets/headshots/karma-robinson.jpg",
+      "instructor_slug": "karma-robinson",
+      "instructor_title": "Political Strategist & Fundraiser",
+      "is_signature": 0,
+      "estimated_hours": null,
+      "sort_order": 10,
+      "status": "published",
+      "learning_outcomes": null,
+      "target_audience": null,
+      "transformation_statement": null,
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": 12500,
+      "installment_count": 3
+    },
+    {
+      "id": 12,
+      "title": "Anatomy of Reform",
+      "slug": "anatomy-of-reform",
+      "subtitle": "How One Senator Took On the Phone Lobby and Won Back Oklahoma Classrooms",
+      "category": "Legislative Strategy",
+      "description": "Sen. Ally Seifried did what seasoned politicians told her was impossible: she passed a statewide cell phone ban in Oklahoma schools \u2014 as a freshman senator, against entrenched industry opposition, and with a coalition that crossed every political line. This course is the inside story of Senate Bill 139, from the Jonathan Haidt research that lit the fuse to the floor vote that changed the rules for every school in the state.",
+      "long_description": null,
+      "price_cents": 34700,
+      "thumbnail_url": null,
+      "instructor_name": "Sen. Ally Seifried",
+      "instructor_bio": "Sen. Ally Seifried is a Republican member of the Oklahoma State Senate representing District 2, covering Rogers and Tulsa counties. A ninth-generation Oklahoman and graduate of Rogers State University, Seifried was elected in 2022 and authored Senate Bill 139, Oklahoma's landmark \"bell to bell\" cell phone ban for public schools. The bill passed the Senate 30-15, was signed by Governor Kevin Stitt in May 2025, and became mandatory for the 2025-26 school year. Inspired by Jonathan Haidt's research on smartphone harms to adolescent mental health, she built a bipartisan coalition to overcome fierce industry opposition and is now pursuing a permanent ban through SB 1719.",
+      "instructor_headshot_url": "/assets/headshots/ally-seifried.jpg",
+      "instructor_slug": "ally-seifried",
+      "instructor_title": "Oklahoma State Senator, District 2",
+      "is_signature": 0,
+      "estimated_hours": 8.0,
+      "sort_order": 10,
+      "status": "published",
+      "learning_outcomes": "Map the complete legislative journey from research to signed law|Build bipartisan coalitions that survive opposition pressure|Navigate committee hearings and floor votes with strategic preparation|Neutralize lobbyist and industry opposition through evidence and allies|Apply Jonathan Haidt's research framework to policy advocacy|Design an enforceable reform strategy that wins over skeptics",
+      "target_audience": null,
+      "transformation_statement": null,
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": 12900,
+      "installment_count": 3
+    },
+    {
+      "id": 13,
+      "title": "The Listening System",
+      "slug": "the-listening-system",
+      "subtitle": "How Human-Centered Design Transforms Schools, Nonprofits, and Public Institutions",
+      "category": "Systems Design",
+      "description": "Every superintendent, executive director, and civic leader says they \"listen to stakeholders.\" Almost none of them do it in a way that actually changes decisions. Dr. Marshall Baker spent two decades inside education systems \u2014 as a teacher, principal, and professor \u2014 then learned the discipline of user research at a platform used by hundreds of millions of people. This course teaches the methodology he wishes he had had from the beginning.",
+      "long_description": "<p>There is a difference between hearing people and actually listening to them \u2014 and an even greater difference between listening and letting what you hear reshape your decisions.</p>\n\n<p>Dr. Marshall A. Baker has spent his career on both sides of that divide. As a classroom teacher, building principal, and university professor, he lived inside the systems that shape how communities learn and grow. He saw firsthand how well-intentioned leaders could gather feedback, host town halls, and commission surveys \u2014 and still build programs that missed the mark. The data was there. The voices were there. But the methodology to connect them to real institutional change was not.</p>\n\n<p>Then Marshall made a rare pivot. He moved from leading schools to leading user experience research at YouVersion \u2014 one of the most widely used digital platforms on Earth. There, he learned a discipline that Silicon Valley takes for granted but public institutions have barely discovered: human-centered design. The practice of treating the people you serve not as an audience to broadcast to, but as the primary source of insight for every decision you make.</p>\n\n<p><strong>The Listening System</strong> brings that methodology home \u2014 adapted for the realities of school districts, nonprofits, municipal agencies, and community organizations. This is not design thinking as a corporate buzzword. This is design thinking as an equity practice: the belief that those most impacted by a system should help shape it.</p>\n\n<p>You will learn how to conduct generative research that reveals what surveys never capture. How to map the actual journeys of students, parents, clients, and community members through your institution. How to synthesize messy qualitative data into insights that move boards and funders. And how to prototype institutional changes the way product teams prototype features \u2014 testing before committing, iterating before scaling.</p>\n\n<p>Marshall teaches with the credibility of someone who has led from inside the system and designed from outside it. His Pahara Fellowship, his PhD from Oklahoma State, and his current school board service in Stillwater, Oklahoma give him a perspective that no pure technologist or pure educator could match.</p>\n\n<p>If you have ever sat in a strategic planning session and wondered whether the plan actually reflected the people it was supposed to serve \u2014 this course is for you.</p>",
+      "price_cents": 34700,
+      "thumbnail_url": null,
+      "instructor_name": "Dr. Marshall Baker",
+      "instructor_bio": "Dr. Marshall A. Baker is a Pahara Fellow, school board member, and Senior UX Researcher at YouVersion. With a PhD from Oklahoma State University and 20+ years spanning teacher, principal, professor, and systems strategist roles, he brings a rare perspective at the intersection of institutional leadership and human-centered design. He lives in Stillwater, Oklahoma.",
+      "instructor_headshot_url": "/assets/headshots/marshall-baker.jpg",
+      "instructor_slug": "marshall-baker",
+      "instructor_title": "Pahara Fellow & Senior UX Researcher, YouVersion",
+      "is_signature": 0,
+      "estimated_hours": 4.5,
+      "sort_order": 13,
+      "status": "published",
+      "learning_outcomes": "Conduct generative user research adapted for schools, nonprofits, and public institutions|Map stakeholder journeys to reveal systemic gaps invisible to traditional feedback methods|Synthesize qualitative data into actionable insights that move boards, funders, and leadership teams|Prototype institutional changes using iterative design methodology|Build participatory design processes that center the voices of those most impacted by the system",
+      "target_audience": null,
+      "transformation_statement": null,
+      "certificate_enabled": 1,
+      "drip_enabled": 0,
+      "installment_price_cents": null,
+      "installment_count": 3
+    }
+  ],
+  "modules": {
+    "1": [
+      {
+        "id": 1,
+        "title": "The S.P.E.E.D. Framework",
+        "description": "Your rapid-response decision engine for the first critical minutes of any crisis.",
+        "position": 0,
+        "course_id": 1,
+        "lessons": [
+          {
+            "id": 1,
+            "title": "Welcome to CrisisReady 360",
+            "lesson_type": "video",
+            "duration_minutes": 0,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": "<h3>What You'll Learn in This Course</h3>\n<p>This course will equip you with battle-tested crisis communication frameworks used by Fortune 500 companies and government agencies.</p>\n<div class=\"callout\"></div>"
+          },
+          {
+            "id": 2,
+            "title": "Why Speed Wins",
+            "lesson_type": "video",
+            "duration_minutes": 12,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 3,
+            "title": "The S.P.E.E.D. Framework Deep Dive",
+            "lesson_type": "video",
+            "duration_minutes": 25,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 4,
+            "title": "Building Your Crisis Response Kit",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Messaging Under Fire",
+        "description": "Craft statements that hold, build bridges with stakeholders, and control the narrative when pressure is highest.",
+        "position": 1,
+        "course_id": 1,
+        "lessons": [
+          {
+            "id": 5,
+            "title": "The Anatomy of a Crisis Statement",
+            "lesson_type": "video",
+            "duration_minutes": 18,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 6,
+            "title": "Stakeholder Mapping Under Pressure",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 7,
+            "title": "The Three-Message Rule",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Mastering the Media",
+        "description": "Work with reporters, handle ambush interviews, and turn media encounters into opportunities.",
+        "position": 2,
+        "course_id": 1,
+        "lessons": [
+          {
+            "id": 8,
+            "title": "Reporter Psychology 101",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 9,
+            "title": "The Interview Framework",
+            "lesson_type": "video",
+            "duration_minutes": 22,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 10,
+            "title": "Handling Ambush and Hostile Questions",
+            "lesson_type": "video",
+            "duration_minutes": 18,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Social Media Firestorms",
+        "description": "Navigate viral moments, manage online reputation, and deploy the Social Threat Index framework.",
+        "position": 3,
+        "course_id": 1,
+        "lessons": [
+          {
+            "id": 11,
+            "title": "Signal vs. Noise: The Social Threat Index",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 12,
+            "title": "Platform-Specific Response Strategies",
+            "lesson_type": "video",
+            "duration_minutes": 18,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 13,
+            "title": "The 24-Hour Social Media Crisis Playbook",
+            "lesson_type": "video",
+            "duration_minutes": 25,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Bonus: Live Crisis Roleplay",
+        "description": "Pressure-test your skills in realistic crisis simulations with expert feedback.",
+        "position": 4,
+        "course_id": 1,
+        "lessons": [
+          {
+            "id": 14,
+            "title": "Crisis Simulation: School Safety Incident",
+            "lesson_type": "video",
+            "duration_minutes": 45,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 15,
+            "title": "Crisis Simulation: Executive Misconduct",
+            "lesson_type": "video",
+            "duration_minutes": 45,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "id": 6,
+        "title": "The Funding Landscape",
+        "description": "Understand where the money is, who gives it, and why \u2014 federal, state, foundation, and corporate.",
+        "position": 0,
+        "course_id": 2,
+        "lessons": [
+          {
+            "id": 16,
+            "title": "Welcome to GrantPath",
+            "lesson_type": "video",
+            "duration_minutes": 5,
+            "position": 0,
+            "is_free_preview": 1,
+            "content_html": null
+          },
+          {
+            "id": 17,
+            "title": "Federal vs. Foundation Funding",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 18,
+            "title": "The Opportunity Audit",
+            "lesson_type": "video",
+            "duration_minutes": 18,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 19,
+            "title": "Building a Funder Pipeline",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Reading the RFP",
+        "description": "Decode requests for proposals, identify alignment signals, and know when to walk away.",
+        "position": 1,
+        "course_id": 2,
+        "lessons": [
+          {
+            "id": 20,
+            "title": "Anatomy of an RFP",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 21,
+            "title": "The Alignment Test",
+            "lesson_type": "video",
+            "duration_minutes": 12,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 22,
+            "title": "Competitive Intelligence",
+            "lesson_type": "video",
+            "duration_minutes": 18,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Crafting the Narrative",
+        "description": "Build compelling needs statements, logic models, and budgets that funders actually believe.",
+        "position": 2,
+        "course_id": 2,
+        "lessons": [
+          {
+            "id": 23,
+            "title": "The Needs Statement Formula",
+            "lesson_type": "video",
+            "duration_minutes": 22,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 24,
+            "title": "Logic Models That Work",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 25,
+            "title": "Budget as Narrative",
+            "lesson_type": "video",
+            "duration_minutes": 18,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Submission & Stewardship",
+        "description": "From final review to award management \u2014 sustain funder relationships beyond the check.",
+        "position": 3,
+        "course_id": 2,
+        "lessons": [
+          {
+            "id": 26,
+            "title": "The Final Review Checklist",
+            "lesson_type": "video",
+            "duration_minutes": 12,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 27,
+            "title": "Post-Award Compliance",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 28,
+            "title": "Relationship Stewardship",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "id": 10,
+        "title": "Finding Your Lane",
+        "description": "Identify your unique authority position and the audience that needs to hear from you.",
+        "position": 0,
+        "course_id": 3,
+        "lessons": [
+          {
+            "id": 29,
+            "title": "Welcome to Authority Architect",
+            "lesson_type": "video",
+            "duration_minutes": 5,
+            "position": 0,
+            "is_free_preview": 1,
+            "content_html": null
+          },
+          {
+            "id": 30,
+            "title": "The Authority Audit",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 31,
+            "title": "Niche vs. Breadth",
+            "lesson_type": "video",
+            "duration_minutes": 18,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 32,
+            "title": "Your Authority Statement",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Content That Compounds",
+        "description": "Create a content engine that builds visibility without burning you out.",
+        "position": 1,
+        "course_id": 3,
+        "lessons": [
+          {
+            "id": 33,
+            "title": "The Content Flywheel",
+            "lesson_type": "video",
+            "duration_minutes": 22,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 34,
+            "title": "Writing for Authority",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 35,
+            "title": "The Curation Advantage",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Owning the Room",
+        "description": "Media appearances, speaking engagements, and executive presence that commands attention.",
+        "position": 2,
+        "course_id": 3,
+        "lessons": [
+          {
+            "id": 36,
+            "title": "Camera-Ready Confidence",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 37,
+            "title": "The Speaking Circuit",
+            "lesson_type": "video",
+            "duration_minutes": 18,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 38,
+            "title": "Handling Hard Questions in Public",
+            "lesson_type": "video",
+            "duration_minutes": 22,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "The Authority Engine",
+        "description": "Build the systems and infrastructure that sustain your visibility long-term.",
+        "position": 3,
+        "course_id": 3,
+        "lessons": [
+          {
+            "id": 39,
+            "title": "Your Digital Headquarters",
+            "lesson_type": "video",
+            "duration_minutes": 18,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 40,
+            "title": "Building Strategic Relationships",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 41,
+            "title": "The Long Game",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": 14,
+        "title": "The AI Landscape",
+        "description": "Understand the current state of AI \u2014 what is real, what is hype, and what every leader needs to know.",
+        "position": 0,
+        "course_id": 4,
+        "lessons": [
+          {
+            "id": 42,
+            "title": "Welcome: Why AI Matters Now",
+            "lesson_type": "video",
+            "duration_minutes": 8,
+            "position": 0,
+            "is_free_preview": 1,
+            "content_html": null
+          },
+          {
+            "id": 43,
+            "title": "What AI Actually Is (And Is Not)",
+            "lesson_type": "video",
+            "duration_minutes": 12,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 44,
+            "title": "The AI Hype Cycle: Signal vs. Noise",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 45,
+            "title": "Module 1 Knowledge Check",
+            "lesson_type": "quiz",
+            "duration_minutes": 5,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "AI That Actually Works",
+        "description": "Practical applications of AI across communications, research, and operations.",
+        "position": 1,
+        "course_id": 4,
+        "lessons": [
+          {
+            "id": 46,
+            "title": "AI for Communications and Content",
+            "lesson_type": "video",
+            "duration_minutes": 14,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 47,
+            "title": "AI for Research and Analysis",
+            "lesson_type": "video",
+            "duration_minutes": 12,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 48,
+            "title": "AI for Operations and Workflow",
+            "lesson_type": "text",
+            "duration_minutes": 10,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": "<h2>Where AI Saves Real Hours</h2><p>The biggest ROI from AI is not in flashy demos \u2014 it is in the unglamorous, repetitive work that consumes your team every week.</p><h3>Five High-Impact Automation Areas</h3><ol><li><strong>Document Processing</strong> \u2014 Contracts, invoices, applications. AI can extract, classify, and route faster than any human team.</li><li><strong>Report Generation</strong> \u2014 Weekly status reports, board summaries, donor updates. Feed the data, get a polished draft in seconds.</li><li><strong>Email Triage</strong> \u2014 Priority routing, auto-drafting responses, flagging urgent items.</li><li><strong>Meeting Summaries</strong> \u2014 Transcribe, summarize, extract action items, distribute to stakeholders automatically.</li><li><strong>Data Entry and Reconciliation</strong> \u2014 The work nobody wants to do is exactly what AI does best.</li></ol><h3>The 80/20 Rule of AI Automation</h3><p>Start with the tasks that are high-volume, low-complexity, and well-documented. Those are your quick wins. Save the complex, judgment-heavy tasks for later.</p>"
+          },
+          {
+            "id": 49,
+            "title": "Case Studies: Organizations Getting It Right",
+            "lesson_type": "download",
+            "duration_minutes": 8,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Building Your AI Strategy",
+        "description": "From readiness assessment to 90-day roadmap \u2014 build your organization's AI plan.",
+        "position": 2,
+        "course_id": 4,
+        "lessons": [
+          {
+            "id": 50,
+            "title": "The AI Readiness Assessment",
+            "lesson_type": "survey",
+            "duration_minutes": 10,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 51,
+            "title": "Building Your 90-Day AI Roadmap",
+            "lesson_type": "video",
+            "duration_minutes": 18,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 52,
+            "title": "Evaluating AI Vendors and Tools",
+            "lesson_type": "text",
+            "duration_minutes": 12,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": "<h2>The Vendor Evaluation Framework</h2><p>The AI vendor landscape is noisy, crowded, and changing weekly. Here is how to cut through it.</p><h3>Five Questions to Ask Every AI Vendor</h3><ol><li><strong>Where does my data go?</strong> \u2014 If they cannot answer this clearly, walk away.</li><li><strong>What happens when I cancel?</strong> \u2014 Data portability is non-negotiable.</li><li><strong>What is the actual accuracy rate?</strong> \u2014 Demand benchmarks, not marketing claims.</li><li><strong>Who else in my sector uses this?</strong> \u2014 References from similar organizations matter.</li><li><strong>What does the pricing look like at scale?</strong> \u2014 Many AI tools price per token or per API call. Model your 12-month costs, not just the trial.</li></ol><h3>Red Flags</h3><ul><li>Claims of 99% accuracy without published benchmarks</li><li>No option to run on your own infrastructure</li><li>Contracts longer than 12 months for unproven technology</li><li>No clear data deletion policy</li></ul>"
+          },
+          {
+            "id": 53,
+            "title": "Ethics, Risk, and Responsible AI",
+            "lesson_type": "video",
+            "duration_minutes": 14,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Hands-On AI Workshop",
+        "description": "Live demos, action plans, and your final assessment.",
+        "position": 3,
+        "course_id": 4,
+        "lessons": [
+          {
+            "id": 54,
+            "title": "Live Demo: Building an AI Workflow",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 55,
+            "title": "Your AI Action Plan",
+            "lesson_type": "download",
+            "duration_minutes": 15,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 56,
+            "title": "Final Assessment",
+            "lesson_type": "quiz",
+            "duration_minutes": 10,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": 36,
+        "title": "Before You Hit Record",
+        "description": "Setup, preparation, and the warmup ritual that separates amateurs from professionals.",
+        "position": 0,
+        "course_id": 11,
+        "lessons": [
+          {
+            "id": 113,
+            "title": "Why You Look Wrong on Camera (And How to Fix It)",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 114,
+            "title": "Setting Up Your Shot",
+            "lesson_type": "text",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 115,
+            "title": "The 30-Second Warmup",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 116,
+            "title": "Quick Check: Camera Ready Assessment",
+            "lesson_type": "survey",
+            "duration_minutes": null,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "title": "Owning the Frame",
+        "description": "Eye contact, pacing, body language, and message structure for camera delivery.",
+        "position": 1,
+        "course_id": 11,
+        "lessons": [
+          {
+            "id": 117,
+            "title": "Talk to the Lens, Not the Screen",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 118,
+            "title": "The Message Box for Camera",
+            "lesson_type": "text",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 119,
+            "title": "Pacing, Pausing, and the Power of Silence",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 120,
+            "title": "Hands, Posture, and What Your Body Is Saying",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 121,
+            "title": "On Camera Delivery Quiz",
+            "lesson_type": "quiz",
+            "duration_minutes": null,
+            "position": 4,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "title": "Real-World Scenarios",
+        "description": "Social video, live interviews, Zoom presentations, and your complete toolkit.",
+        "position": 2,
+        "course_id": 11,
+        "lessons": [
+          {
+            "id": 122,
+            "title": "The 60-Second Social Video",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 123,
+            "title": "Surviving the Live Interview",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 124,
+            "title": "Zoom and Virtual Presentations",
+            "lesson_type": "text",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 125,
+            "title": "On Camera Toolkit",
+            "lesson_type": "download",
+            "duration_minutes": null,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": 18,
+        "title": "The Relational Blueprint",
+        "description": "How faith leaders build trust infrastructure across sectors",
+        "position": 0,
+        "course_id": 5,
+        "lessons": [
+          {
+            "id": 57,
+            "title": "Why the Pastor Gets the Call",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 1,
+            "content_html": null
+          },
+          {
+            "id": 58,
+            "title": "The Trust Economy: How Relational Capital Works",
+            "lesson_type": "text",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": "<h2>Understanding Relational Capital</h2><p>Every leader has positional authority \u2014 the title on the door, the org chart, the budget. But relational capital is different. It is earned through presence, consistency, and the willingness to show up when there is nothing to gain.</p><h3>The Three Currencies of Trust</h3><ul><li><strong>Consistency</strong> \u2014 You show up whether cameras are rolling or not</li><li><strong>Confidentiality</strong> \u2014 People tell you things they would never put in an email</li><li><strong>Competence</strong> \u2014 When you say you will handle it, it gets handled</li></ul><p>Pastor Abode has built a career on all three. In this lesson, we break down exactly how relational capital compounds over time and why it matters more than any title.</p>"
+          },
+          {
+            "id": 59,
+            "title": "Mapping Your Relational Network",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 60,
+            "title": "Your Relational Capital Assessment",
+            "lesson_type": "survey",
+            "duration_minutes": null,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Mobilizing Without Authority",
+        "description": "Moving communities through influence, not position",
+        "position": 1,
+        "course_id": 5,
+        "lessons": [
+          {
+            "id": 61,
+            "title": "The Phone Tree That Moves a City",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 62,
+            "title": "Leading from the Second Chair",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 63,
+            "title": "Community Mobilization Toolkit",
+            "lesson_type": "download",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "The Bridge Builder Playbook",
+        "description": "Connecting institutions, families, and movements when no one else can",
+        "position": 2,
+        "course_id": 5,
+        "lessons": [
+          {
+            "id": 64,
+            "title": "When Institutions Fail, Bridges Hold",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 65,
+            "title": "The Conversation Before the Conversation",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 66,
+            "title": "Connective Leadership Assessment",
+            "lesson_type": "quiz",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": 21,
+        "title": "The Art of the Ballot Initiative",
+        "description": "How MAPS passed and what it teaches about selling big ideas to skeptical voters",
+        "position": 0,
+        "course_id": 6,
+        "lessons": [
+          {
+            "id": 67,
+            "title": "MAPS: The Initiative That Changed Everything",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 1,
+            "content_html": null
+          },
+          {
+            "id": 68,
+            "title": "Building the Coalition Before the Campaign",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 69,
+            "title": "The Anatomy of a Yes Vote",
+            "lesson_type": "text",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": "<h2>Why People Vote Yes</h2><p>Voters do not vote for policy. They vote for a version of their city they want to live in. Every successful ballot initiative tells a story about the future that is more compelling than the cost.</p><h3>The Four Elements of a Winning Initiative</h3><ul><li><strong>Tangibility</strong> \u2014 Voters can picture what they are getting (a park, an arena, a streetcar)</li><li><strong>Fairness</strong> \u2014 The funding mechanism does not feel punitive to any one group</li><li><strong>Credibility</strong> \u2014 The people behind it have a track record of delivering</li><li><strong>Urgency</strong> \u2014 There is a reason to do this now, not next year</li></ul><p>MAPS had all four. Most failed initiatives are missing at least two.</p>"
+          },
+          {
+            "id": 70,
+            "title": "Initiative Strategy Quiz",
+            "lesson_type": "quiz",
+            "duration_minutes": null,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Narrative as Infrastructure",
+        "description": "How a mayor reshapes how a city sees itself \u2014 and how the world sees it",
+        "position": 1,
+        "course_id": 6,
+        "lessons": [
+          {
+            "id": 71,
+            "title": "The City on a Diet: Weaponizing Narrative",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 72,
+            "title": "From Flyover to Destination",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 73,
+            "title": "City Narrative Framework",
+            "lesson_type": "download",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Governing Under Pressure",
+        "description": "Decision-making when every option has political consequences",
+        "position": 2,
+        "course_id": 6,
+        "lessons": [
+          {
+            "id": 74,
+            "title": "The Decision Matrix: When Every Option Has Consequences",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 75,
+            "title": "Managing the Room You Cannot Control",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 76,
+            "title": "Leadership Under Pressure Assessment",
+            "lesson_type": "quiz",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": 24,
+        "title": "The Quality Schools Equation",
+        "description": "What actually makes a school work \u2014 and it is not what the policy papers say",
+        "position": 0,
+        "course_id": 7,
+        "lessons": [
+          {
+            "id": 77,
+            "title": "What a Thriving School Actually Looks Like",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 1,
+            "content_html": null
+          },
+          {
+            "id": 78,
+            "title": "The Ecosystem Around the School",
+            "lesson_type": "text",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": "<h2>Schools Do Not Succeed in Isolation</h2><p>A school is not just a building with teachers and students. It is the center of a web that includes families, businesses, nonprofits, city government, and faith communities. When that web is strong, the school thrives. When it frays, the school struggles \u2014 no matter how good the teachers are.</p><h3>The Five Pillars of the School Ecosystem</h3><ul><li><strong>Parent Engagement</strong> \u2014 Not just PTA meetings. Real partnership in student outcomes</li><li><strong>Business Investment</strong> \u2014 Mentorship, internships, and workforce pipeline \u2014 not just donations</li><li><strong>Nonprofit Support</strong> \u2014 After-school programs, mental health, food security</li><li><strong>Municipal Partnership</strong> \u2014 Safe routes, infrastructure, zoning that supports families</li><li><strong>Faith Community</strong> \u2014 Volunteers, space, and the moral authority to rally support</li></ul>"
+          },
+          {
+            "id": 79,
+            "title": "The School Health Assessment",
+            "lesson_type": "survey",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Building the Coalition",
+        "description": "How business leaders become genuine partners in education, not just donors",
+        "position": 1,
+        "course_id": 7,
+        "lessons": [
+          {
+            "id": 80,
+            "title": "Getting Business Leaders to Show Up (For Real)",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 81,
+            "title": "The Parent Engagement Playbook",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 82,
+            "title": "Coalition Building Toolkit",
+            "lesson_type": "download",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "title": "From Advocacy to Action",
+        "description": "Turning community energy into structural change for schools",
+        "position": 2,
+        "course_id": 7,
+        "lessons": [
+          {
+            "id": 83,
+            "title": "From Conversation to Commitment",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 84,
+            "title": "Measuring What Matters",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 85,
+            "title": "School Advocacy Final Assessment",
+            "lesson_type": "quiz",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": 27,
+        "title": "Seeing What Others Cannot",
+        "description": "How visionary leaders identify opportunity in places everyone else has abandoned",
+        "position": 0,
+        "course_id": 8,
+        "lessons": [
+          {
+            "id": 86,
+            "title": "The Dead Mall and the Dream",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 1,
+            "content_html": null
+          },
+          {
+            "id": 87,
+            "title": "Santa Fe South: Building a School From Nothing",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 88,
+            "title": "The Opportunity Audit",
+            "lesson_type": "text",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": "<h2>Finding the Diamond in the Rough</h2><p>Every community has abandoned assets \u2014 buildings, institutions, relationships \u2014 that most people see as problems. Visionary leaders see them as raw material.</p><h3>How to Audit Your Community for Hidden Opportunities</h3><ul><li><strong>Physical assets</strong> \u2014 What buildings, land, or infrastructure is underutilized or abandoned?</li><li><strong>Human capital</strong> \u2014 What talent exists in the community that has no platform?</li><li><strong>Institutional gaps</strong> \u2014 What services are missing that, if present, would change everything?</li><li><strong>Narrative gaps</strong> \u2014 What story does the community tell about itself, and is it true?</li></ul><p>Brewster found all four at Crossroads Mall. The building was dead. The community had talent. Schools and services were desperately needed. And the story of South OKC was one of decline \u2014 until someone rewrote it.</p>"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "title": "Building the Institution",
+        "description": "From charter school to community ecosystem \u2014 the mechanics of building something that lasts",
+        "position": 1,
+        "course_id": 8,
+        "lessons": [
+          {
+            "id": 89,
+            "title": "Charter Schools: The Operator's Manual",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 90,
+            "title": "Sustaining What You Build",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 91,
+            "title": "Institution Building Toolkit",
+            "lesson_type": "download",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "title": "The Crossroads Model",
+        "description": "Turning a dead mall into a hub for schools, businesses, and services that transform a neighborhood",
+        "position": 2,
+        "course_id": 8,
+        "lessons": [
+          {
+            "id": 92,
+            "title": "The Crossroads Vision: Schools, Business, and Services Under One Roof",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 93,
+            "title": "Rewriting the Neighborhood Narrative",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 94,
+            "title": "Community Transformation Assessment",
+            "lesson_type": "quiz",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": 30,
+        "title": "AI Without the Hype",
+        "description": "Cutting through the noise to understand what AI actually does and does not do",
+        "position": 0,
+        "course_id": 9,
+        "lessons": [
+          {
+            "id": 95,
+            "title": "What AI Actually Is (and What It Is Not)",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 1,
+            "content_html": null
+          },
+          {
+            "id": 96,
+            "title": "The Tools That Matter Right Now",
+            "lesson_type": "text",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": "<h2>A Practical Map of the AI Landscape</h2><p>There are thousands of AI tools. Most of them are wrappers around the same handful of models. Here is what you actually need to know.</p><h3>The Three Categories That Matter</h3><ul><li><strong>Language Models</strong> \u2014 ChatGPT, Claude, Gemini. They generate and analyze text. They are the most versatile tools available today.</li><li><strong>Image and Media Generators</strong> \u2014 Midjourney, DALL-E, Runway. They create visual and video content. Powerful but narrow.</li><li><strong>Workflow Automation</strong> \u2014 Tools that connect AI to your existing systems. This is where the real productivity gains live.</li></ul><p>Everything else is either a specialization of these three categories or a marketing gimmick. Hanegan breaks down which tools are worth your time and which are noise.</p>"
+          },
+          {
+            "id": 97,
+            "title": "Your AI Literacy Assessment",
+            "lesson_type": "survey",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "title": "AI in the Learning Ecosystem",
+        "description": "How AI reshapes teaching, libraries, and community education \u2014 practically, not theoretically",
+        "position": 1,
+        "course_id": 9,
+        "lessons": [
+          {
+            "id": 98,
+            "title": "Libraries as AI Hubs",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 99,
+            "title": "Rethinking the Classroom",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 100,
+            "title": "AI Integration Toolkit for Educators",
+            "lesson_type": "download",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "title": "Building an AI-Ready Institution",
+        "description": "Practical frameworks for integrating AI into your organization without losing what matters",
+        "position": 2,
+        "course_id": 9,
+        "lessons": [
+          {
+            "id": 101,
+            "title": "The AI Readiness Audit",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 102,
+            "title": "Ethics Without Paralysis",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 103,
+            "title": "AI Readiness Final Assessment",
+            "lesson_type": "quiz",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": 33,
+        "title": "The Money Map",
+        "description": "Understanding where political and advocacy money comes from and how it moves",
+        "position": 0,
+        "course_id": 10,
+        "lessons": [
+          {
+            "id": 104,
+            "title": "Follow the Money: How Political Finance Really Works",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 1,
+            "content_html": null
+          },
+          {
+            "id": 105,
+            "title": "The Donor Ecosystem",
+            "lesson_type": "text",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": "<h2>Understanding Who Gives and Why</h2><p>Political and advocacy fundraising is not charity. Donors give because they want outcomes \u2014 policy changes, candidates elected, issues advanced. Understanding donor motivation is the foundation of every successful fundraising operation.</p><h3>The Four Types of Political Donors</h3><ul><li><strong>Ideological</strong> \u2014 They believe in the cause. They give because it aligns with their values.</li><li><strong>Transactional</strong> \u2014 They want access, influence, or a seat at the table. The gift is an investment.</li><li><strong>Social</strong> \u2014 They give because their peers give. The event, the network, the community matters more than the policy.</li><li><strong>Legacy</strong> \u2014 They want to build something that outlasts them. Named programs, endowments, institutional giving.</li></ul><p>Every fundraising strategy needs to address all four. Robinson breaks down how to identify, cultivate, and retain each type.</p>"
+          },
+          {
+            "id": 106,
+            "title": "Donor Landscape Assessment",
+            "lesson_type": "survey",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "title": "Building the Finance Operation",
+        "description": "The operational infrastructure behind successful fundraising campaigns",
+        "position": 1,
+        "course_id": 10,
+        "lessons": [
+          {
+            "id": 107,
+            "title": "The Call Time Machine",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 108,
+            "title": "Events That Raise Real Money",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 109,
+            "title": "Fundraising Operations Toolkit",
+            "lesson_type": "download",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "title": "From Fundraising to Winning",
+        "description": "How financial strategy connects to campaign and advocacy outcomes",
+        "position": 2,
+        "course_id": 10,
+        "lessons": [
+          {
+            "id": 110,
+            "title": "Money as Strategy: Timing, Targets, and Thresholds",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 111,
+            "title": "Building a Sustainable Finance Culture",
+            "lesson_type": "video",
+            "duration_minutes": null,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 112,
+            "title": "Political Finance Final Assessment",
+            "lesson_type": "quiz",
+            "duration_minutes": null,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": 39,
+        "title": "The Research That Changed Everything",
+        "description": "How Jonathan Haidt's work and the evidence of smartphone harms became the foundation for legislative action",
+        "position": 0,
+        "course_id": 12,
+        "lessons": [
+          {
+            "id": 126,
+            "title": "The Moment I Knew Something Had to Change",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 0,
+            "is_free_preview": 1,
+            "content_html": null
+          },
+          {
+            "id": 127,
+            "title": "The Haidt Framework: Phones, Anxiety, and the Rewiring of Adolescence",
+            "lesson_type": "text",
+            "duration_minutes": 20,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 128,
+            "title": "What Teachers Were Already Telling Us",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 129,
+            "title": "Turning Research Into a Bill: The Policy Design Process",
+            "lesson_type": "text",
+            "duration_minutes": 20,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "title": "Building the Coalition",
+        "description": "Assembling the bipartisan alliance of educators, parents, and mental health advocates who made SB 139 possible",
+        "position": 1,
+        "course_id": 12,
+        "lessons": [
+          {
+            "id": 130,
+            "title": "The First Allies: Who Said Yes Before It Was Safe",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 131,
+            "title": "Crossing Party Lines Without Losing Your Base",
+            "lesson_type": "text",
+            "duration_minutes": 20,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 132,
+            "title": "The Parent Problem: Overcoming 'I Need to Reach My Kid'",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 133,
+            "title": "Coalition Mapping Workshop",
+            "lesson_type": "text",
+            "duration_minutes": 20,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "title": "Surviving the Gauntlet",
+        "description": "Navigating committee hearings, hostile questions, lobbyist opposition, and the floor vote",
+        "position": 2,
+        "course_id": 12,
+        "lessons": [
+          {
+            "id": 134,
+            "title": "Committee Hearings: Preparation Is the Whole Game",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 135,
+            "title": "Neutralizing the Lobby: How Industry Opposition Works",
+            "lesson_type": "text",
+            "duration_minutes": 20,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 136,
+            "title": "The Floor Vote: 30-15 and What It Took to Get There",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 137,
+            "title": "When the Governor Signs: From Bill to Law",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "title": "From Law to Legacy",
+        "description": "Implementation, enforcement, measuring impact, and how opponents became advocates",
+        "position": 3,
+        "course_id": 12,
+        "lessons": [
+          {
+            "id": 138,
+            "title": "Implementation: Making a Law Work in 500 School Districts",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 0,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 139,
+            "title": "When Opponents Become Advocates",
+            "lesson_type": "video",
+            "duration_minutes": 20,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 140,
+            "title": "The Permanent Ban: SB 1719 and What Comes Next",
+            "lesson_type": "text",
+            "duration_minutes": 20,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 141,
+            "title": "Your Reform Blueprint: From Conviction to Statute",
+            "lesson_type": "text",
+            "duration_minutes": 20,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": null
+          },
+          {
+            "id": 142,
+            "title": "Legislative Reform Final Assessment",
+            "lesson_type": "quiz",
+            "duration_minutes": 20,
+            "position": 4,
+            "is_free_preview": 0,
+            "content_html": null
+          }
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": 43,
+        "title": "The Listening Deficit",
+        "description": "Why institutions think they are listening but are not \u2014 and what real listening actually requires.",
+        "position": 1,
+        "course_id": 13,
+        "lessons": [
+          {
+            "id": 143,
+            "title": "The Feedback Illusion",
+            "lesson_type": "video",
+            "duration_minutes": 12,
+            "position": 1,
+            "is_free_preview": 1,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 144,
+            "title": "What Schools Taught Me About Not Listening",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 145,
+            "title": "The User Is Not an Audience",
+            "lesson_type": "video",
+            "duration_minutes": 14,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 146,
+            "title": "Power, Proximity, and Perception",
+            "lesson_type": "video",
+            "duration_minutes": 13,
+            "position": 4,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 147,
+            "title": "The Cost of Not Listening",
+            "lesson_type": "video",
+            "duration_minutes": 16,
+            "position": 5,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "title": "The Research Playbook",
+        "description": "Human-centered research methods adapted from Silicon Valley for schools, nonprofits, and public institutions.",
+        "position": 2,
+        "course_id": 13,
+        "lessons": [
+          {
+            "id": 148,
+            "title": "From YouVersion to Your District",
+            "lesson_type": "video",
+            "duration_minutes": 14,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 149,
+            "title": "Generative Interviews",
+            "lesson_type": "video",
+            "duration_minutes": 18,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 150,
+            "title": "Journey Mapping for Public Institutions",
+            "lesson_type": "video",
+            "duration_minutes": 16,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 151,
+            "title": "Contextual Inquiry",
+            "lesson_type": "video",
+            "duration_minutes": 14,
+            "position": 4,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 152,
+            "title": "Synthesis Without Paralysis",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 5,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 153,
+            "title": "On a School-District Budget",
+            "lesson_type": "video",
+            "duration_minutes": 12,
+            "position": 6,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "title": "From Insight to Redesign",
+        "description": "Turning what you learned into institutional change that sticks \u2014 the politics, the prototyping, and the proof.",
+        "position": 3,
+        "course_id": 13,
+        "lessons": [
+          {
+            "id": 154,
+            "title": "Evidence Over Opinion",
+            "lesson_type": "video",
+            "duration_minutes": 14,
+            "position": 1,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 155,
+            "title": "Prototyping Policy",
+            "lesson_type": "video",
+            "duration_minutes": 16,
+            "position": 2,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 156,
+            "title": "The Politics of Participatory Design",
+            "lesson_type": "video",
+            "duration_minutes": 15,
+            "position": 3,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 157,
+            "title": "Measuring What You Redesigned",
+            "lesson_type": "video",
+            "duration_minutes": 13,
+            "position": 4,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          },
+          {
+            "id": 158,
+            "title": "Those Closest to the Challenge",
+            "lesson_type": "video",
+            "duration_minutes": 17,
+            "position": 5,
+            "is_free_preview": 0,
+            "content_html": "<p>Lesson content coming soon.</p>"
+          }
+        ]
+      }
+    ]
+  },
+  "instructors": [
+    {
+      "instructor_name": "Damon Gardenhire",
+      "instructor_slug": "damon-gardenhire",
+      "instructor_title": "Founder, LINCHPIN",
+      "instructor_headshot_url": "/assets/headshots/damon-gardenhire.jpg",
+      "instructor_bio": "Former spokesman for INTEGRIS Health and 12-year veteran of the Walton Family Foundation. Damon has managed communications through executive crises, public safety incidents, and social media firestorms for organizations across the country.",
+      "course_count": 5
+    },
+    {
+      "instructor_name": "Brent Bushey",
+      "instructor_slug": "brent-bushey",
+      "instructor_title": "CEO of FUEL OKC & Coalition Builder",
+      "instructor_headshot_url": "/assets/headshots/brent-bushey.jpg",
+      "instructor_bio": "Brent Bushey is CEO of FUEL OKC and has spent years at the intersection of business, community, and education in Oklahoma. He builds the coalitions of parents, business leaders, educators, and policymakers that high-performing public schools need to thrive.",
+      "course_count": 1
+    },
+    {
+      "instructor_name": "Chris Brewster",
+      "instructor_slug": "chris-brewster",
+      "instructor_title": "Founder, Santa Fe South Schools & Crossroads",
+      "instructor_headshot_url": "/assets/headshots/chris-brewster.png",
+      "instructor_bio": "Chris Brewster founded Santa Fe South Charter Schools \u2014 one of the most successful charter networks in Oklahoma \u2014 and then turned a dead mall into a community renewal engine with the Crossroads Renewal Project. He builds institutions in neighborhoods most people have written off.",
+      "course_count": 1
+    },
+    {
+      "instructor_name": "Dr. Marshall Baker",
+      "instructor_slug": "marshall-baker",
+      "instructor_title": "Pahara Fellow & Senior UX Researcher, YouVersion",
+      "instructor_headshot_url": "/assets/headshots/marshall-baker.jpg",
+      "instructor_bio": "Dr. Marshall A. Baker is a Pahara Fellow, school board member, and Senior UX Researcher at YouVersion. With a PhD from Oklahoma State University and 20+ years spanning teacher, principal, professor, and systems strategist roles, he brings a rare perspective at the intersection of institutional leadership and human-centered design. He lives in Stillwater, Oklahoma.",
+      "course_count": 1
+    },
+    {
+      "instructor_name": "Karma Robinson",
+      "instructor_slug": "karma-robinson",
+      "instructor_title": "Political Strategist & Fundraiser",
+      "instructor_headshot_url": "/assets/headshots/karma-robinson.jpg",
+      "instructor_bio": "Karma Robinson has raised millions of dollars across political campaigns, policy initiatives, and advocacy organizations in Oklahoma over two decades. She knows where the money comes from, why it moves, and how to build the financial infrastructure that wins campaigns and passes policy.",
+      "course_count": 1
+    },
+    {
+      "instructor_name": "Michael Hanegan",
+      "instructor_slug": "michael-hanegan",
+      "instructor_title": "AI Researcher & Educator",
+      "instructor_headshot_url": "/assets/headshots/michael-hanegan.png",
+      "instructor_bio": "Michael Hanegan is an Oklahoma educator, researcher, and founder of Intersections. Co-author of Generative AI and Libraries (American Library Association), he brings a rare ground-level perspective on how AI will reshape learning, work, and community institutions for everyone \u2014 not just the tech elite.",
+      "course_count": 1
+    },
+    {
+      "instructor_name": "Mick Cornett",
+      "instructor_slug": "mick-cornett",
+      "instructor_title": "Former Mayor of Oklahoma City",
+      "instructor_headshot_url": "/assets/headshots/mick-cornett.jpg",
+      "instructor_bio": "Mick Cornett served four terms as Mayor of Oklahoma City during its most dramatic transformation \u2014 from a city people drove through to one they moved to. He championed the MAPS initiatives, put the city on a national diet, and built the coalitions behind billions of dollars in civic investment.",
+      "course_count": 1
+    },
+    {
+      "instructor_name": "Pastor Phillip Abode",
+      "instructor_slug": "phillip-abode",
+      "instructor_title": "Senior Pastor & Community Strategist",
+      "instructor_headshot_url": "/assets/headshots/phillip-abode.jpg",
+      "instructor_bio": "Pastor Phillip Abode has spent decades as the connective tissue between institutions, families, and movements in Oklahoma City. He is the person who gets the call before the press conference, before the vote, before the crisis goes public \u2014 building trust across every sector through presence, consistency, and follow-through.",
+      "course_count": 1
+    },
+    {
+      "instructor_name": "Sen. Ally Seifried",
+      "instructor_slug": "ally-seifried",
+      "instructor_title": "Oklahoma State Senator, District 2",
+      "instructor_headshot_url": "/assets/headshots/ally-seifried.jpg",
+      "instructor_bio": "Sen. Ally Seifried is a Republican member of the Oklahoma State Senate representing District 2, covering Rogers and Tulsa counties. A ninth-generation Oklahoman and graduate of Rogers State University, Seifried was elected in 2022 and authored Senate Bill 139, Oklahoma's landmark \"bell to bell\" cell phone ban for public schools. The bill passed the Senate 30-15, was signed by Governor Kevin Stitt in May 2025, and became mandatory for the 2025-26 school year. Inspired by Jonathan Haidt's research on smartphone harms to adolescent mental health, she built a bipartisan coalition to overcome fierce industry opposition and is now pursuing a permanent ban through SB 1719.",
+      "course_count": 1
+    }
+  ],
+  "site_info": {
+    "site_name": "Linchpin Learning",
+    "site_tagline": "A masterclass platform for doers and thinkers who get things done.",
+    "support_email": "damon@linchpin.studio",
+    "base_url": "http://localhost:8769"
+  }
+}
